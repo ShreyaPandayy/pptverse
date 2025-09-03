@@ -2,11 +2,6 @@
 
 pptverse is a modern web application that leverages AI to transform text prompts into professional PowerPoint presentations. Built with Next.js and powered by advanced AI technology, it streamlines the presentation creation process.
 
-<!-- GitAds-Verify: XMZKHLFSYTLHC4GBDFAUKGK2QBPTUN1E -->
-## GitAds Sponsored
-[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=hothead01th/pptverse@github)](https://gitads.dev/v1/ad-track?source=hothead01th/pptverse@github)
-
-
 ## Features
 
 - **AI-Powered Generation**: Create professional presentations instantly using advanced AI technology
