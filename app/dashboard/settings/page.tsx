@@ -43,7 +43,7 @@ export default function SettingsPage() {
   return (
     <>
       <Head>
-        <title>Settings - SlideXpert</title>
+        <title>Settings - pptverse</title>
       </Head>
       <div className="container mx-auto py-8 px-4">
         <h1 className="text-2xl font-bold mb-6">Settings</h1>

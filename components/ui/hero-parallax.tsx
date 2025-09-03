@@ -147,7 +147,7 @@ export const Header = () => {
         <h2 className="font-bold text-foreground">
           <div className="w-full text-7xl md:text-8xl">
             <TextHoverEffect 
-              text="SlideXpert" 
+              text="pptverse" 
               duration={0.2}
             />
           </div>

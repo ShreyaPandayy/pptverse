@@ -12,13 +12,13 @@ export default function AboutPage() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5 }}
         >
-          <h1 className="text-4xl md:text-6xl font-bold text-center mb-8">About SlideXpert</h1>
+          <h1 className="text-4xl md:text-6xl font-bold text-center mb-8">About pptverse</h1>
           
           {/* Mission Statement */}
           <div className="bg-neutral-900/50 backdrop-blur-sm rounded-xl p-8 mb-12">
             <h2 className="text-2xl font-semibold mb-4">Our Mission</h2>
             <p className="text-neutral-300 leading-relaxed">
-              SlideXpert was created with a simple goal: to revolutionize the way presentations 
+              pptverse was created with a simple goal: to revolutionize the way presentations 
               are made. By harnessing the power of AI, we're making it possible for anyone to 
               create professional-quality presentations in minutes, not hours.
             </p>
@@ -39,7 +39,7 @@ export default function AboutPage() {
               </div>
             </div>
             <p className="text-neutral-300 leading-relaxed mb-6">
-              As a developer passionate about AI and productivity tools, I created SlideXpert 
+              As a developer passionate about AI and productivity tools, I created pptverse 
               to solve the common challenge of creating engaging presentations quickly and 
               efficiently.
             </p>

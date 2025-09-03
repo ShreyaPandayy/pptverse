@@ -136,7 +136,7 @@ export default function DashboardPage() {
                   }}
                   className="text-xl font-bold whitespace-nowrap overflow-hidden"
                 >
-                SlideXpert
+                pptverse
                 </motion.span>
               </div>
               <div className="space-y-2">

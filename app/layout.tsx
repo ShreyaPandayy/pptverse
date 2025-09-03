@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "SlideXpert",
+  title: "pptverse",
   description: "Smart AI-powered presentation builder",
 };
 

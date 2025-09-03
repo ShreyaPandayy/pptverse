@@ -26,7 +26,7 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           {/* Brand Section */}
           <div>
-            <h3 className="text-2xl font-bold text-white mb-4">SlideXpert</h3>
+            <h3 className="text-2xl font-bold text-white mb-4">pptverse</h3>
             <p className="text-neutral-400">
               Transform your ideas into professional presentations with AI.
             </p>
@@ -71,7 +71,7 @@ export function Footer() {
 
         <div className="mt-8 pt-8 border-t border-neutral-800">
           <p className="text-center text-neutral-400">
-            © {new Date().getFullYear()} SlideXpert. All rights reserved.
+            © {new Date().getFullYear()} pptverse. All rights reserved.
           </p>
         </div>
       </div>

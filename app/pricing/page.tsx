@@ -5,7 +5,7 @@ export default function PricingPage() {
     {
       name: "Free",
       price: "$0",
-      description: "Perfect for trying out SlideXpert",
+      description: "Perfect for trying out pptverse",
       features: [
         "5 slides per presentation",
         "Basic AI generation",
